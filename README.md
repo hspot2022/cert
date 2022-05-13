@@ -24,3 +24,9 @@ no password
 
 ![image](https://user-images.githubusercontent.com/105436224/168210381-850b3c61-cc69-450b-a60a-578d223dd6e8.png)
 ![image](https://user-images.githubusercontent.com/105436224/168210521-4b27b7c7-0f91-41b8-811b-b452da056eb1.png)
+
+restart browser
+
+enter url: https://www.zn75.cn:9188
+
+![image](https://user-images.githubusercontent.com/105436224/168221470-197fbf8a-1adb-446c-87f4-99b63961144a.png)
