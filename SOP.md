@@ -1,7 +1,8 @@
 certificate download link
 
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hspot2022/cert/blob/main/root.crt
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hspot2022/cert/blob/main/client.p12
+root.crt: https://reurl.cc/A7A9mZ
+
+client.p12: https://reurl.cc/rD50qN
 
 Chrome
 
