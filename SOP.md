@@ -1,3 +1,8 @@
+certificate download link
+
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hspot2022/cert/blob/main/root.crt
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hspot2022/cert/blob/main/client.p12
+
 Chrome
 
 install root.crt
