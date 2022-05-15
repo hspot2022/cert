@@ -1,17 +1,22 @@
-訪問 https://www.zn75.cn:9188 需要安裝憑證
+感谢您的到来👋
+-
 
-下載地址為：
-
-root.crt: https://reurl.cc/A7A9mZ
-
-client.p12: https://reurl.cc/rD50qN
+### 🍿访问 https://www.zn75.cn:9188 需要安装凭证
 
 
-Chrome
+浏览器安装根凭证及客户端凭证，下载地址为：
 
-安裝root.crt
+  `root.crt` https://reurl.cc/A7A9mZ
 
-網址列進入 chrome://settings/security
+  `client.p12` https://reurl.cc/rD50qN
+
+---
+
+* Chrome
+
+安装root.crt
+
+网址列进入 chrome://settings/security
 
 ![image](https://user-images.githubusercontent.com/105436224/168208708-ac2b9949-fbc9-46ff-b7c5-be52b5fd7046.png)
 ![image](https://user-images.githubusercontent.com/105436224/168208889-31c6e0d0-c881-43af-9779-a5f7c48fd093.png)
