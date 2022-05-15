@@ -7,6 +7,7 @@
 ---
 * [Chrome](#chrome)
 * [Edge](#edge)
+* [IE](#ie)
 ---
 <span id="chrome"></span>
 ```diff
@@ -53,5 +54,29 @@
 ![image](https://user-images.githubusercontent.com/105436224/168210521-4b27b7c7-0f91-41b8-811b-b452da056eb1.png)
 #### 安装完毕后重启浏览器
 之后访问 https://www.zn75.cn:9188</br>
-![image](https://user-images.githubusercontent.com/105436224/168475070-414326b7-3803-41ca-be55-4aa4f14db495.png)
+![image](https://user-images.githubusercontent.com/105436224/168476727-61fbc4d4-004a-490d-9473-8873c4941000.png)
+</br>会跳提示使用凭证，点击确定即可🚀
+
+---
+<span id="ie"></span>
+```diff
++ IE
+```
+#### 安装 root.crt
+![image](https://user-images.githubusercontent.com/105436224/168475903-bf932b5f-5d5a-4ff9-8d19-4327bce84594.png)
+![image](https://user-images.githubusercontent.com/105436224/168476095-848af13f-7048-4c29-b219-cddd94e93364.png)
+![image](https://user-images.githubusercontent.com/105436224/168208889-31c6e0d0-c881-43af-9779-a5f7c48fd093.png)
+##### 汇入root.crt
+![image](https://user-images.githubusercontent.com/105436224/168209559-dcaf66b8-c628-40e6-a9b0-ba265869006f.png)
+![image](https://user-images.githubusercontent.com/105436224/168209746-be6fca4f-ae8d-48d3-bce9-d0d37349c4a9.png)
+#### 安装client.p12
+![image](https://user-images.githubusercontent.com/105436224/168209945-dd6cb507-434d-4b00-8979-c9f0f4a41342.png)
+##### 汇入client.p12
+![image](https://user-images.githubusercontent.com/105436224/168210115-713dbe97-f850-463f-b0cf-3defcce71649.png)
+![image](https://user-images.githubusercontent.com/105436224/168210381-850b3c61-cc69-450b-a60a-578d223dd6e8.png)
+</br>不须输入密码☝️</br>
+![image](https://user-images.githubusercontent.com/105436224/168210521-4b27b7c7-0f91-41b8-811b-b452da056eb1.png)
+#### 安装完毕后重启浏览器
+之后访问 https://www.zn75.cn:9188</br>
+![image](https://user-images.githubusercontent.com/105436224/168476184-fa4ec6de-b74b-4b61-a133-bf55e4c19d52.png)
 </br>会跳提示使用凭证，点击确定即可🚀
