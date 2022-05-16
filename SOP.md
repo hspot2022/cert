@@ -89,4 +89,16 @@
 ```
 #### 安装 root.crt
 ##### 网址列进入 `about:preferences#privacy`
-about:preferences#privacy
+![image](https://user-images.githubusercontent.com/105436224/168512435-59a62138-7109-40e5-913f-31002713f5fc.png)
+![image](https://user-images.githubusercontent.com/105436224/168512590-fca47d67-f64d-4fbd-aa97-80d94b71bb0e.png)
+##### 汇入root.crt
+![image](https://user-images.githubusercontent.com/105436224/168512754-1f9855c4-b87c-407a-bd9a-7ed6728b6634.png)
+#### 安装client.p12
+![image](https://user-images.githubusercontent.com/105436224/168512973-2e18c1fc-a8c0-4865-a727-ba5322fc79e2.png)
+![image](https://user-images.githubusercontent.com/105436224/168513107-165e7084-a67f-4812-9c0b-b811e7533043.png)
+</br>不须输入密码☝️</br>
+#### 安装完毕后重启浏览器
+之后访问 https://www.zn75.cn:9188</br>
+![image](https://user-images.githubusercontent.com/105436224/168513236-bb9ec947-2b74-4cda-9970-d3dc5441930c.png)
+</br>会跳提示使用凭证，点击确定即可🚀
+
