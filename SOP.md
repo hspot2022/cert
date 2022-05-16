@@ -95,6 +95,7 @@
 ![image](https://user-images.githubusercontent.com/105436224/168512754-1f9855c4-b87c-407a-bd9a-7ed6728b6634.png)
 #### 安装client.p12
 ![image](https://user-images.githubusercontent.com/105436224/168512973-2e18c1fc-a8c0-4865-a727-ba5322fc79e2.png)
+##### 汇入client.p12
 ![image](https://user-images.githubusercontent.com/105436224/168513107-165e7084-a67f-4812-9c0b-b811e7533043.png)
 </br>不须输入密码☝️</br>
 #### 安装完毕后重启浏览器
