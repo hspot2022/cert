@@ -8,6 +8,7 @@
 * [Chrome](#chrome)
 * [Edge](#edge)
 * [IE](#ie)
+* [Firefox](#firefox)
 ---
 <span id="chrome"></span>
 ```diff
@@ -80,3 +81,12 @@
 之后访问 https://www.zn75.cn:9188</br>
 ![image](https://user-images.githubusercontent.com/105436224/168476184-fa4ec6de-b74b-4b61-a133-bf55e4c19d52.png)
 </br>会跳提示使用凭证，点击确定即可🚀
+
+---
+<span id="firefox"></span>
+```diff
++ Firefox
+```
+#### 安装 root.crt
+##### 网址列进入 `about:preferences#privacy`
+about:preferences#privacy
