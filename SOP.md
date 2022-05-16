@@ -100,6 +100,6 @@
 </br>不须输入密码☝️</br>
 #### 安装完毕后重启浏览器
 之后访问 https://www.zn75.cn:9188</br>
-![image](https://user-images.githubusercontent.com/105436224/168513236-bb9ec947-2b74-4cda-9970-d3dc5441930c.png)
+![image](https://user-images.githubusercontent.com/105436224/168513543-fd319429-f318-486c-b375-40eb41429423.png)
 </br>会跳提示使用凭证，点击确定即可🚀
 
